@@ -1,3 +1,4 @@
 Just some random. Don't mind me.
-If I contributed and you liked it, you can say [thanks you](https://saythanks.io/to/Pingasmaster).
-I don't use this often, I prefer to use free software such as [gogs](https://github.com/gogs/gogs) to host my own git instance.
+I don't use github often for my own projects hence my empty account, I prefer to use self-hosted free software such as [gogs](https://github.com/gogs/gogs).
+
+The year of the linux desktop happened in 2025, now next year is surely the year of the openbsd desktop!
