@@ -6,19 +6,25 @@
   
   Computers, linux, servers, parkour, bike and chess, in that order.
 
-  ![Linux badge](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+  [![Linux badge](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)](https://github.com/orgs/OpenMandrivaAssociation/people?query=Adrian)
   [![GPL Licence badge](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
   ![Profile views counter](https://komarev.com/ghpvc/?username=Pingasmaster)
+  [![sudo-rs pwned badge](https://img.shields.io/badge/sudo_rs-pwned-important)](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q)
+  ![ESSSET](https://img.shields.io/badge/European_Systems,_Software_and_Security_Emergency_Taskforce_🇪🇺-French_Section_🇫🇷-white)
   
 </div>
 
 <details>
   <summary><h2>Current projects</h2></summary>
 
-  * Security research on rust software already deployed in production, often rust rewrites like the git rust rewrite or the coreutils rewrite (uutils).
+  * Security research on rust software already deployed in production, often rust rewrites like the git rust rewrite or the coreutils rewrite (uutils). See
   * Contributing to linux distributions like Openmandriva where I'm one of the 60 core team members.
   * Making fast software in C, secure software in rust or rapid prototypes in python
-  * Creating my own future-proof linux distribution with near-native support for windows apps executing from the file manager as a PoC.
+  * Creating [my own future-proof linux distribution](https://github.com/Pingasmaster/apexos) with near-native support for windows apps executing from the file manager as a PoC.
+
+  Examples of my best work include:
+  * finding [CVE-2025-64517](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q) in sudo-rs that allowed full root privilege escalation alongside a lot of [other](https://github.com/trifectatechfoundation/sudo-rs/issues/1309) [interesting](https://github.com/trifectatechfoundation/sudo-rs/issues/1311) [mild](https://github.com/trifectatechfoundation/sudo-rs/issues/1310) [issues](https://github.com/trifectatechfoundation/sudo-rs/issues/1310#issuecomment-3518897701).
+  * and various other fun stuff along the way (peek at my PR/commit history and you'll probably see something fun!)
 </details>
 
 <details>
