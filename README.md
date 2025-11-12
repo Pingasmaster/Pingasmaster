@@ -16,25 +16,28 @@ My main projects currently:
 Linux distributions tier list (personal opinion):
 
 S Tier:
-
+| TempleOS | Gentoo | Arch Linux | OpenMandriva |
+|:-:|:-:|:-:|:-:|
 <img title="TempleOS" alt="TempleOS" width="40px" src="https://templeos.org/favicon.ico"/>|<img title="Gentoo" alt="Gentoo" width="40px" src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg"/>|<img title="Arch Linux" alt="Arch Linux" width="40px" src="https://github.com/github/explore/blob/main/topics/archlinux/archlinux.png"/>|<img title="OpenMandriva" alt="OpenMandriva" width="40px" src="https://www.openmandriva.org/squelettes/icons/favicon.ico"/>
-|--|--|--|--|
 
 A Tier:
+| Linux from Scratch | Debian |
+|:-:|:-:|
 <img title="LFS" alt="Linux From Scratch" width="40px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/>|<img title="Debian" alt="Debian" width="40px" src="https://github.com/github/explore/blob/main/topics/debian/debian.png" />|
-|--|--|
 
 B Tier:
+| Fedora | Bazzite |
+|:-:|:-:|
 <img title="Fedora" alt="Fedora" width="40px" src="https://github.com/github/explore/blob/main/topics/fedora/fedora.png"/>|<img title="Bazzite" alt="Bazzite" width="40px" src="https://raw.githubusercontent.com/bazzite-org/bazzite.gg/refs/heads/main/favicon.ico"/>
-|--|--|
 
 C Tier:
 
-|--|
+|:-:|
 
 D Tier:
+| ZorinOS | Ubuntu |
+|:-:|:-:|
 <img title="ZorinOS" alt="ZorinOS" width="40px" src="https://zorin.com/favicon-32x32.png"/>|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"/>|
-|--|--|
 
 Some of the best software ever made in my opinion:
 - Linux and wine because they are impossible to create
