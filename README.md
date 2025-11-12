@@ -7,13 +7,14 @@ Computers, linux, servers, parkour, bike and chess, in that order.
 [![GPL Licence badge](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 ![Profile views counter](https://komarev.com/ghpvc/?username=Pingasmaster)
 
-My main projects currently:
+## Current projects
+
 * Security research on rust software already deployed in production, often rust rewrites like the git rust rewrite or the coreutils rewrite (uutils).
 * Contributing to linux distributions like Openmandriva where I'm one of the 60 core team members.
 * Making fast software in C, secure software in rust or rapid prototypes in python
 * Creating my own future-proof linux distribution with near-native support for windows apps executing from the file manager as a PoC.
 
-Linux distributions tier list (personal opinion):
+## Linux distributions tier list (personal opinion):
 
 S Tier:
 | TempleOS | Gentoo | Arch Linux | OpenMandriva |
@@ -38,6 +39,8 @@ D Tier:
 | ZorinOS | Ubuntu |
 |:-:|:-:|
 <img title="ZorinOS" alt="ZorinOS" width="40px" src="https://zorin.com/favicon-32x32.png"/>|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"/>|
+
+## Philosophy
 
 Some of the best software ever made in my opinion:
 - Linux and wine because they are impossible to create
