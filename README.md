@@ -37,12 +37,14 @@ D Tier:
 |--|--|
 
 Some of the best software ever made in my opinion:
-- Linux
-- tcc
-- openrc
-- dwm
-- doas
-- most GNU coreutils (though a bit heavy in LoC)
+- Linux and wine because they are impossible to create
+- tcc, openrc, dwm, doas because clean, simple and readable code is the hardest code to make
+- C because it was made by legends (and makes it simpler to write clean code)
+- Rust because it actually made it simpler to write error-free code (not just about mem safety but also the code style and "spirit")
+
+The perfect system is resilient and always up. Resistant to memory corruption via ECC and other technologies, resistant to power failures/spikes/brownouts via UPS and the likes, resitant to human tampering / unauthorized physical access, and resitant to human stupidity with High Availablitity VMs in redondant clusters and 3-2-1 backups. The perfect system only includes perfect software and therefore doesn't exist in real life.
+
+The perfect code is both error-free and clean. Error-free which means bug-free, both logically (sound program logic) and physically (memory safety, resitant to external errors like no more disk space or internet and unexpected bugs). Clean means simple, easy to understand, and small in LoC while still respecting these two principles. Perfect software is feature-complete (and therefore "done") but also always funded and maintained security-wise. Therefore, perfect software is extremely rare.
 
 I may be young but I am not a beginner, having over a decade of experience in linux systems and securing whole datacenters from the hardware to the end user. Able to learn new things fast and well if needed.
 
