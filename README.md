@@ -18,7 +18,7 @@
 <details>
   <summary><h2>Current projects</h2></summary>
 
-  * Security research on rust software already deployed in production, often rust rewrites like the git rust rewrite or the coreutils rewrite (uutils). See
+  * Security research on rust software already deployed in production, often rust rewrites like the git rust rewrite or the coreutils rewrite (uutils).
   * Contributing to linux distributions like Openmandriva where I'm one of the 60 core team members.
   * Making fast software in C, secure software in rust or rapid prototypes in python
   * Creating [my own future-proof linux distribution](https://github.com/Pingasmaster/apexos) with near-native support for windows apps executing from the file manager as a PoC.
