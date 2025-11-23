@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><h2>Linux distributions tier list (personal opinion):</h2></summary>
+  <summary><h2>OS tier list (personal opinion):</h2></summary>
 
   ### S Tier:
   | TempleOS | Gentoo | Arch Linux | OpenMandriva |
