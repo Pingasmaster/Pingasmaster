@@ -31,29 +31,29 @@
   <summary><h2>OS tier list (personal opinion):</h2></summary>
 
   ### S Tier:
-  | TempleOS | Gentoo | Arch Linux | OpenMandriva |
+  | TempleOS | Gentoo | Arch Linux | OpenBSD |
   |:-:|:-:|:-:|:-:|
-  <img title="TempleOS" alt="TempleOS" width="40px" src="https://templeos.org/favicon.ico"/>|<img title="Gentoo" alt="Gentoo" width="40px" src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg"/>|<img title="Arch Linux" alt="Arch Linux" width="40px" src="https://github.com/github/explore/blob/main/topics/archlinux/archlinux.png"/>|<img title="OpenMandriva" alt="OpenMandriva" width="40px" src="https://www.openmandriva.org/squelettes/icons/favicon.ico"/>
+  |<img title="TempleOS" alt="TempleOS" width="40px" src="https://templeos.org/favicon.ico"/>|<img title="Gentoo" alt="Gentoo" width="40px" src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg"/>|<img title="Arch Linux" alt="Arch Linux" width="40px" src="https://github.com/github/explore/blob/main/topics/archlinux/archlinux.png"/>|<img title="OpenBSD" alt="OpenBSD" width="40px" src="https://upload.wikimedia.org/wikipedia/en/8/83/OpenBSD_Logo_-_Cartoon_Puffy_with_textual_logo_below.svg"/>|
 
   ### A Tier:
-  | Linux from Scratch | Debian |
-  |:-:|:-:|
-  <img title="LFS" alt="Linux From Scratch" width="40px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/>|<img title="Debian" alt="Debian" width="40px" src="https://github.com/github/explore/blob/main/topics/debian/debian.png" />|
+  | Linux from Scratch | Debian | CachyOS | OpenMandriva |
+  |:-:|:-:|:-:|:-:|
+  |<img title="LFS" alt="Linux From Scratch" width="40px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/>|<img title="Debian" alt="Debian" width="40px" src="https://github.com/github/explore/blob/main/topics/debian/debian.png" />|<img title="CachyOS" alt="CachyOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg"/>|<img title="OpenMandriva" alt="OpenMandriva" width="40px" src="https://www.openmandriva.org/squelettes/icons/favicon.ico"/>|
 
   ### B Tier:
   | Fedora | Bazzite |
   |:-:|:-:|
-  <img title="Fedora" alt="Fedora" width="40px" src="https://github.com/github/explore/blob/main/topics/fedora/fedora.png"/>|<img title="Bazzite" alt="Bazzite" width="40px" src="https://raw.githubusercontent.com/bazzite-org/bazzite.gg/refs/heads/main/favicon.ico"/>
+  |<img title="Fedora" alt="Fedora" width="40px" src="https://github.com/github/explore/blob/main/topics/fedora/fedora.png"/>|<img title="Bazzite" alt="Bazzite" width="40px" src="https://raw.githubusercontent.com/bazzite-org/bazzite.gg/refs/heads/main/favicon.ico"/>|
 
   ### C Tier:
-
-  |:-:|
-
-  ### D Tier:
-  | ZorinOS | Ubuntu |
+  | Linux Mint | Ubuntu |
   |:-:|:-:|
-  <img title="ZorinOS" alt="ZorinOS" width="40px" src="https://zorin.com/favicon-32x32.png"/>|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"/>|
-
+  |<img title="Linux Mint" alt="Mint" width="40px" src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/badge.svg"/>|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"/>|
+  
+  ### D Tier:
+  | ZorinOS | RedHat Linux |
+  |:-:|:-:|
+  |<img title="ZorinOS" alt="ZorinOS" width="40px" src="https://zorin.com/favicon-32x32.png"/>|<img title="RedHat Linux" alt="RedHat" width="40px" src="https://www.redhat.com/rhdc/managed-files/rhb-logos-red_hat_logo-hero_image_1.svg"/>
 </details>
 
 <details>
