@@ -17,13 +17,15 @@
 <details>
   <summary><h2>Current projects</h2></summary>
 
+  * Rewriting [all software in my linux distribution in pure amd64 assembly](https://github.com/Pingasmaster/white) by hand to make it faster (not a joke) so an OS can finally do modern work but also feel as snappy as windows 95 again. I may rename ApexOS into Linux 95 sooner or later.
+  * Creating [my own future-proof linux distribution](https://github.com/Pingasmaster/apexos) with near-native support for windows apps executing from the file manager as a Proof of Concept.
   * Security research on rust software already deployed in production, often rust rewrites like the git rust rewrite or the coreutils rewrite (uutils).
   * Contributing to linux distributions like Openmandriva where I'm one of the 60 core team members.
-  * Making fast software in C, secure software in rust or rapid prototypes in python
-  * Creating [my own future-proof linux distribution](https://github.com/Pingasmaster/apexos) with near-native support for windows apps executing from the file manager as a PoC.
+  * Making fast software in assembly or C, secure software in rust or rapid prototypes in python.
+  * Designing beautiful and secure android metarial you 3 expressive apps in Java & Kotlin or web apps (that are performant & written by hand with HTML/CSS/JS instead of using react or any other framework).
 
   Examples of my best work include:
-  * finding [CVE-2025-64517](https://nvd.nist.gov/vuln/detail/CVE-2025-64517) in sudo-rs that allowed full root privilege escalation alongside a lot of [other](https://github.com/trifectatechfoundation/sudo-rs/issues/1309) [interesting](https://github.com/trifectatechfoundation/sudo-rs/issues/1311) [mild](https://github.com/trifectatechfoundation/sudo-rs/issues/1310) [issues](https://github.com/trifectatechfoundation/sudo-rs/issues/1310#issuecomment-3518897701). Here's the [github security advisory](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q), the [debian security advisory](https://lists.debian.org/debian-security-announce/2025/msg00218.html). This vulnerability also got covered in a dedicated video by one of the most prominent [linux journals,](https://www.youtube.com/watch?v=R3SUTiAp9aw) the lunduke journal and this [Primetime video](https://youtu.be/_AsXnyi2Mus?si=gPidNFQ1PHzqV5e8&t=476), wow!
+  * finding [CVE-2025-64517](https://nvd.nist.gov/vuln/detail/CVE-2025-64517) in sudo-rs that allowed full root privilege escalation from any user alongside a lot of [other](https://github.com/trifectatechfoundation/sudo-rs/issues/1309) [interesting](https://github.com/trifectatechfoundation/sudo-rs/issues/1311) [mild](https://github.com/trifectatechfoundation/sudo-rs/issues/1310) [issues](https://github.com/trifectatechfoundation/sudo-rs/issues/1310#issuecomment-3518897701). Here's the [github security advisory](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q), the [debian security advisory](https://lists.debian.org/debian-security-announce/2025/msg00218.html), the [ubuntu advisory](https://ubuntu.com/security/CVE-2025-64517). This vulnerability also got covered in a dedicated video by one of the most prominent [linux journals,](https://www.youtube.com/watch?v=R3SUTiAp9aw) the lunduke journal and this [Primetime video](https://youtu.be/_AsXnyi2Mus?si=gPidNFQ1PHzqV5e8&t=476), wow! The [guys at phoronix get it](https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10), deploying less than a year old software in prod won't do much good, while [itsfoss](https://itsfoss.com/news/sudo-rs-issue-ubuntu/) thinks it actually is a good thing. My take is that it's a good thing these were found, however it is certainly not a good sign that these basic logic holes exist in the first place. 
   * and various other fun stuff along the way (peek at my PR/commit history and you'll probably see something fun!)
 </details>
 
@@ -54,6 +56,8 @@
   | ZorinOS | RedHat Linux |
   |:-:|:-:|
   |<img title="ZorinOS" alt="ZorinOS" width="40px" src="https://zorin.com/favicon-32x32.png"/>|<img title="RedHat Linux" alt="RedHat" width="40px" src="https://www.redhat.com/rhdc/managed-files/rhb-logos-red_hat_logo-hero_image_1.svg"/>
+
+  This is subjective (and highly personnal) and depends on a distro's usefulness to me and the code's beauty and distro's philosophies. For example, Ubuntu has a bad security track record and frankly often quite bad code but is very beginner friendly. Linux Ming is fine and the team is dedicated but it's not very useful to me and I think the ubuntu base is a poor decision they'll come to regret in the future for stability and security. Redhat is in D tier since it's not open source anymore (can't audit the source code so can't give a rating).
 </details>
 
 <details>
@@ -61,17 +65,17 @@
 
   Some of the best software ever made in my opinion:
   - Linux and wine because they are impossible to create
-  - tcc, openrc, dwm, doas because clean, simple and readable code is the hardest code to make
+  - tcc, openrc, dwm, doas because clean, simple and readable code is the hardest code to write
   - C because it was made by legends (and makes it simpler to write clean code)
-  - Rust because it actually made it simpler to write error-free code (not just about mem safety but also the code style and "spirit")
+  - Rust because it actually made it simpler to write error-free code (not just about mem safety but also the code style and "spirit" with cargo, etc) and can be guaranteed "99.99%" secure if used well
 
   The perfect system is resilient and always up. Resistant to memory corruption via ECC and other technologies, resistant to power failures/spikes/brownouts via UPS and the likes, resitant to human tampering / unauthorized physical access, and resitant to human stupidity with High Availablitity VMs in redondant clusters and 3-2-1 backups. The perfect system only includes perfect software and therefore doesn't exist in real life.
 
-  The perfect code is both error-free and clean. Error-free which means bug-free, both logically (sound program logic) and physically (memory safety, resitant to external errors like no more disk space or internet and unexpected bugs). Clean means simple, easy to understand, and small in LoC while still respecting these two principles. Perfect software is feature-complete (and therefore "done") but also always funded and maintained security-wise. Therefore, perfect software is extremely rare.
+  The perfect code is both error-free and clean. Error-free which means bug-free, both logically (sound program logic) and physically (memory safety, resitant to external errors like no more disk space or internet and unexpected bugs). Clean means simple, easy to understand, and small in LoC while still respecting these two principles. Perfect software is feature-complete (and therefore "done") but also always funded for the minimal but necessary security maintenance. Therefore, perfect software is extremely rare, if not also impossible.
 
-  I may be young but I am not a beginner, having over a decade of experience in linux systems and securing whole datacenters from the hardware to the end user. Able to learn new things fast and well if needed.
+  I may be young but I am not a beginner, having now over a decade of experience in linux systems and securing whole datacenters from the hardware to the web front end the end user sees. Able and willing to learn new things fast and well if needed.
 
-  I don't use github often for my own projects (I don't trust microsoft to maintain a proper uptime) hence my rather empty account, I prefer to use self-hosted free software such as [gogs](https://github.com/gogs/gogs).
+  I don't use github often for my own projects (I don't trust microsoft to maintain a proper uptime or with sensitive code) hence my rather empty account, I prefer to use self-hosted free software such as [gogs](https://github.com/gogs/gogs).
 </details>
 
 If you read all this, have a nice day!
