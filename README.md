@@ -10,7 +10,7 @@
 
   [![Linux badge](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)](https://github.com/orgs/OpenMandrivaAssociation/people?query=Adrian)
   [![GPL Licence badge](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
-  ![Profile views counter](https://komarev.com/ghpvc/?username=Pingasmaster&base=10000))
+  ![Profile views counter](https://komarev.com/ghpvc/?username=Pingasmaster&base=10000)
   [![CVE counters](https://img.shields.io/badge/CVE_Counter-1-important)](https://nvd.nist.gov/vuln/detail/CVE-2025-64517)
   [![sudo-rs pwned badge](https://img.shields.io/badge/sudo_rs-pwned-important)](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q)
   
