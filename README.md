@@ -65,6 +65,8 @@
 <details>
   <summary><h2>Philosophy</h2></summary>
 
+  A company can fail, you see that all the time. Founders who promise the world and deliver nothing or get acquired then dump and rebuild another useless company. But if you just make an open source project yourself out of passion, there's no expectation, no failure. You can only succeed.
+
   Some of the best software ever made in my opinion:
   - Linux and wine because they are impossible to create
   - tcc, openrc, dwm, doas because clean, simple and readable code is the hardest code to write
