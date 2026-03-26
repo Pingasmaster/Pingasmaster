@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" width="480" height="120">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#888888"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lacquer&amp;display=swap');
+    </style>
+  </defs>
+  <rect x="4" y="4" width="472" height="112" rx="56" ry="56" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="220" y="76" text-anchor="middle" font-family="'Lacquer', cursive" font-weight="700" font-size="52" fill="url(#textGrad)" letter-spacing="3">HIRE ME</text>
+  <path d="M360 60 L395 60 M382 45 L400 60 L382 75" fill="none" stroke="#888888" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
