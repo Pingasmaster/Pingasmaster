@@ -13,8 +13,8 @@
   ![Profile views counter](https://komarev.com/ghpvc/?username=Pingasmaster&base=10000)
   [![CVE counters](https://img.shields.io/badge/CVE_Counter-1-important)](https://nvd.nist.gov/vuln/detail/CVE-2025-64517)
   [![sudo-rs pwned badge](https://img.shields.io/badge/sudo_rs-pwned-important)](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q)
-
-  [![Hire Me](./hire-me-button.svg)](mailto:adrian.noyes@protonmail.com)
+  
+  <a href="mailto:adrian.noyes@protonmail.com"><img src="./hire-me-button.svg" width="120"/></a>
 </div>
 
 <details>
