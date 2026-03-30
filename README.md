@@ -13,6 +13,8 @@
   ![Profile views counter](https://komarev.com/ghpvc/?username=Pingasmaster&base=10000)
   [![CVE counters](https://img.shields.io/badge/CVE_Counter-1-important)](https://nvd.nist.gov/vuln/detail/CVE-2025-64517)
   [![sudo-rs pwned badge](https://img.shields.io/badge/sudo_rs-pwned-important)](https://github.com/trifectatechfoundation/sudo-rs/security/advisories/GHSA-q428-6v73-fc4q)
+
+  <img src="./efrei-cyber-hub.jpg" alt="Description" width="300"/>
   
   <a href="mailto:adrian.noyes@protonmail.com"><img src="./hire-me-button.svg" width="200"/></a>
 </div>
